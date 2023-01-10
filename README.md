@@ -20,4 +20,4 @@ BambuLab Core requires extra hardware
 |Category|Qty|Description|Notes|
 |:----|:----|:----|:----|
 |Hardware|2|M3 Heatset Insert| Standard Voron spec 4.7 mm diameter inserts|
-|Hardware|2|M3 x 16 BHCS| Socket/Button head cap screw|
+|Hardware|2|M3 x 16| Socket or Button head cap screw|
