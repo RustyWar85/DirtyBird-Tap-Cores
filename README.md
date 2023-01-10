@@ -1,4 +1,4 @@
-Beta of my tap intergrated Dirty Bird cores
+Beta of my tap integrated Dirty Bird cores
 
 Other DirtyBird files are located in the Dirtybird GitHub Below
 
@@ -8,6 +8,7 @@ Note: all versions including Rapido of the tap core use the dragon fan ducts
 
 ![alt text](https://github.com/RustyWar85/DirtyBird-Tap-Cores/blob/main/Images/DIRTYBIRDTAP.jpg)
 
+Additional Hardware
 
 |Category|Qty|Description|Notes|
 |:----|:----|:----|:----|
@@ -16,6 +17,5 @@ Note: all versions including Rapido of the tap core use the dragon fan ducts
 BambuLab Core requires extra hardware
 |Category|Qty|Description|Notes|
 |:----|:----|:----|:----|
-|Hardware|2|M3 Heatset Insert|Standard Voron spec 4.7 mm diameter inserts|
-|Hardware|2|M3 x 16 BHCS|Socket/Button head cap screw|
-
+|Hardware|2|M3 Heatset Insert| Standard Voron spec 4.7 mm diameter inserts|
+|Hardware|2|M3 x 16 BHCS| Socket/Button head cap screw|
