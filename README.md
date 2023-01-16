@@ -1,6 +1,6 @@
-Beta of my tap integrated Dirty Bird core's
-
 ![alt text](https://github.com/RustyWar85/DirtyBird-Tap-Cores/blob/main/Images/hero.jpg)
+
+Beta of my tap integrated Dirty Bird core's
 
 Other DirtyBird files are located in the Dirtybird GitHub Below
 
